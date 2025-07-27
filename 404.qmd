@@ -1,0 +1,8 @@
+---
+title: Seite nicht gefunden
+lang: de
+---
+
+Sie haben einen Link aufgerufen, zu dem keine Seite existiert. Sie können uns einen Hinweis geben über die folgende E-Mail:
+
+[eckensteher-Team - eckensteher@gmx.com](mailto:eckensteher@gmx.com)

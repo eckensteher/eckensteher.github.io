@@ -1,0 +1,45 @@
+project:
+  type: website
+
+website:
+  back-to-top-navigation: true
+  site-url: https://eckensteher.github.io/
+  favicon: assets/favicon.ico
+  repo-url: https://eckensteher.github.io/
+  title: eckensteher
+  page-navigation: true
+  navbar:
+    pinned: true
+    search: true
+    logo: assets/eckensteher.ico.png
+  page-footer:
+    border: true
+    background: light
+    right:
+      - text: "eckensteher 2025"
+        href: https://eckensteher.github.io/
+    left:
+      - href: index.qmd
+        text: "{{< fa house >}}"
+  sidebar: 
+    style: "docked"
+    search: true
+    lang: de
+    contents:
+      - section: Question-Tree
+        href: qt/index.qmd
+        contents:
+          - text: Editor
+            href: qt/editor.qmd
+          - text: Datenbank
+            href: qt/database.qmd
+          - text: Browser
+            href: qt/browser.qmd
+      
+format:
+  html:
+    theme: lux
+    anchor-sections: true
+    link-external-icon: true
+    link-external-newwindow: true
+    toc: true
