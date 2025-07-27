@@ -1,0 +1,52 @@
+[
+  {
+    "objectID": "qt/editor.html",
+    "href": "qt/editor.html",
+    "title": "Question-Tree",
+    "section": "",
+    "text": "Zurück nach oben",
+    "crumbs": [
+      "Question-Tree",
+      "Editor"
+    ]
+  },
+  {
+    "objectID": "qt/index.html",
+    "href": "qt/index.html",
+    "title": "Question-Tree",
+    "section": "",
+    "text": "Zurück nach oben",
+    "crumbs": [
+      "Question-Tree"
+    ]
+  },
+  {
+    "objectID": "qt/database.html",
+    "href": "qt/database.html",
+    "title": "Question-Tree",
+    "section": "",
+    "text": "Zurück nach oben",
+    "crumbs": [
+      "Question-Tree",
+      "Datenbank"
+    ]
+  },
+  {
+    "objectID": "qt/browser.html",
+    "href": "qt/browser.html",
+    "title": "Question-Tree",
+    "section": "",
+    "text": "Zurück nach oben",
+    "crumbs": [
+      "Question-Tree",
+      "Browser"
+    ]
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "eckensteher",
+    "section": "",
+    "text": "Willkommen\nAuf diesen Seiten finden Sie Dokumentationen zu Programmierungen, die das eckensteher-Team im Rahmen kleiner Projekte entwickelt hat.\n\n\nLizenz\nAlle Texte und Spezifikationen sind unter der Lizenz CC0 veröffentlicht. Programmierungen sind unter der Lizenz MIT nutzbar.\n\n\nHaftungsausschluss\nAuf vielen der in diesem Dokument verlinkten Webseiten finden Sie Zusatzmaterialien. Trotz sorgfältiger inhaltlicher Kontrolle übernehmen wir keine Haftung für Richtigkeit, Vollständigkeit und Aktualität der Inhalte externer Links. Für den Inhalt der verlinkten Seiten sind ausschließlich deren Betreiber verantwortlich.\n\n\nTechnische Realisierung\nDieser Webauftritt basiert auf Texten in einer einfachen Syntax Markdown, die anschließend in Html und CSS umgesetzt werden. Hierzu wird Quarto verwendet.\n\n\nKontakt\nHinweise und Anmerkungen richten Sie bitte an das eckensteher-Team - eckensteher@gmx.com.\n\n\n\n\n Zurück nach oben"
+  }
+]
